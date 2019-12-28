@@ -8,7 +8,7 @@ In this repository, we provide
 
 ## Architecture
 
-![](./framework1.png)
+![](./Framework04.png)
 
 Please refer to our paper for details.
 
@@ -42,4 +42,4 @@ python agent_test.py --model_path ./checkpoints/test_run.ckpt-700 --data_dir ./t
 
 ## Results
 
-![](./results_2.png)
+![](./One1.png)
