@@ -14,6 +14,7 @@ Please refer to our paper for details.
 
 ## Dependencies
 * Python 3
+* Anaconda 3
 * [Tensorflow >= 1.14.0](https://www.tensorflow.org/) (CUDA version >= 10.0 if installing with CUDA. [More details](https://www.tensorflow.org/install/gpu/))
 * Python packages:  `conda DeepBatterySaver -n recreated_env --file requirements.txt`
 
