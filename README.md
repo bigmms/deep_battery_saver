@@ -27,8 +27,8 @@ git clone https://github.com/bigmms/deep_battery_saver
 2. Place your testing images in `./test` folder. (There are several sample images).
 3. Then, `cd` to `deep_battery_saver` and run following command for evaluation:
 ```
-# To run with different setting, modify --num_epochs, --power_level, --learning_rate, --source_path, --target_path as you need.
 python main.py -opt --source_path ./test/pills.jpg
+# To run with different settings, modify --num_epochs, --power_level, --learning_rate, --source_path, --target_path as you need.
 ```
 4. The results are in `./results` folder.
 
