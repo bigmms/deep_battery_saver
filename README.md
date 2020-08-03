@@ -6,11 +6,11 @@ In this repository, we provide
 * Our model architecture description (Deep battery saver)
 * Demo code
 
-## Architecture
-
 ![](./Framework04.png)
 
-Please refer to our paper for details.
+The details about our deep battery saver can be found in our [paper](https://ieeexplore.ieee.org/document/9089316).
+
+If you find our work useful in your research or publications, please consider citing:
 
 ## Dependencies
 * Python 3
@@ -24,10 +24,9 @@ Our code is tested under Windows 10 environment with GeForce GTX 1060 GPU (6GB V
 1. Clone this github repo. 
 ```
 git clone https://github.com/bigmms/deep_battery_saver
-cd deep_battery_saver
 ```
-2. Place your testing images in `./Images` folder. (There are several sample images there).
-3. Run test. We provide the demo code and you can config in the `agent_test.py`. 
+2. Place your testing images in `./test` folder. (There are several sample images).
+3. Then, `cd` to `deep_battery_saver` and run one of following commands for evaluation:
 ```
 # To run with different models, set -model_path as your model path.
 # To run for different testing dataset, you need to set -data_dir as your data path.
