@@ -170,10 +170,10 @@ class DeepBatterySaver:
 if __name__ == '__main__':
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     parser = argparse.ArgumentParser()
-    parser.add_argument('--num_epochs', type=int, default=2000)
+    parser.add_argument('--num_epochs', type=int, default=3000)
     parser.add_argument('--power_level', type=int, default=0.8)
     parser.add_argument('--learning_rate', type=int, default=0.05)
-    parser.add_argument('--source_path', type=str, default='./test/kodim45.jpg')
+    parser.add_argument('--source_path', type=str, default='./test/Lena.jpg')
     parser.add_argument('--target_path', type=str, default='./results')
     opt = parser.parse_args()
 
