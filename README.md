@@ -1,7 +1,7 @@
 # Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement
 Jia-Li Yin, Bo-Hao Chen, Yan-Tsung Peng, and Chung-Chi Tsai
 
-![](./Framework04.png)
+![](./Demo/Framework.png)
 
 The details about our deep battery saver can be found in our [paper](https://ieeexplore.ieee.org/document/9089316).
 
@@ -34,4 +34,4 @@ python main.py -opt --source_path ./test/pills.jpg
 
 ## Results
 
-![](./One1.png)
+![](./Demo/Demo_results.png)
