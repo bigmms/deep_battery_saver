@@ -6,7 +6,15 @@ Jia-Li Yin, Bo-Hao Chen, Yan-Tsung Peng, and Chung-Chi Tsai
 The details about our deep battery saver can be found in our [paper](https://ieeexplore.ieee.org/document/9089316).
 
 If you find our work useful in your research or publications, please consider citing:
-
+    @ARTICLE{yin_tmm20_pcce,  
+    author={J. {Yin} and B. {Chen} and Y. {Peng} and C. {Tsai}},  
+    journal={IEEE Transactions on Multimedia},   
+    title={Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-1},}
+    
 ## Dependencies
 * Python 3
 * Anaconda 3
