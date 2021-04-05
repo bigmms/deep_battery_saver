@@ -1,4 +1,4 @@
-# Code for TMM paper: Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement
+# Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement
 Jia-Li Yin, Bo-Hao Chen, Yan-Tsung Peng, and Chung-Chi Tsai
 
 ![](./Demo/Demo_framework.png)
