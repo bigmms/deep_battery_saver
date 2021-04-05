@@ -38,7 +38,7 @@ git clone https://github.com/bigmms/deep_battery_saver
 ```
 python main.py --source_path ./test/pills.jpg
 ```
-4. To run with different settings, add --num_epochs, --power_level, --learning_rate, --source_path, --target_path as you need.
+4. To run with different settings, add `--num_epochs`, `--power_level`, `--learning_rate`, `--source_path`, `--target_path` as you need.
 5. The results are in `./results` folder.
 
 ## Results
