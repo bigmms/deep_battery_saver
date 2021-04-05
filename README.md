@@ -7,14 +7,15 @@ The details about our deep battery saver can be found in our [paper](https://iee
 ## Citation:
 If you find our work useful in your research or publications, please consider citing:
 
-    @ARTICLE{yin_tmm20_pcce,  
-    author={J. {Yin} and B. {Chen} and Y. {Peng} and C. {Tsai}},  
-    journal={IEEE Transactions on Multimedia},   
-    title={Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement},   
-    year={2020},  
-    volume={},  
-    number={},  
-    pages={1-1},}
+    @ARTICLE{yin_tmm20_pcce,
+    author={J. -L. {Yin} and B. -H. {Chen} and Y. -T. {Peng} and C. -C. {Tsai}},
+    journal={IEEE Transactions on Multimedia}, 
+    title={Deep Battery Saver: End-to-End Learning for Power Constrained Contrast Enhancement}, 
+    year={2021},
+    volume={23},
+    number={},
+    pages={1049-1059},
+    doi={10.1109/TMM.2020.2992962}}
     
 ## Dependencies
 * Python 3
