@@ -1,4 +1,8 @@
 # Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+![](https://img.shields.io/badge/Tensorflow-2.0-yellow)
+![](https://img.shields.io/badge/Cuda-10.0-blue)
+![](https://img.shields.io/badge/Cudnn-7.6.5-green)
 
 ![](./Demo/Demo_framework.png)
 
