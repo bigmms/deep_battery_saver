@@ -4,8 +4,8 @@
 
 The details about our deep battery saver can be found in our [paper](https://ieeexplore.ieee.org/document/9089316).
 
-## Citation:
-If you find our work useful in your research or publications, please consider citing:
+## License + Attribution
+This code is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Commercial usage is not permitted. If you use this code in a scientific publication, please cite the following [paper](https://ieeexplore.ieee.org/document/9089316):
 
     @ARTICLE{yin_tmm20_pcce,
     author={J. -L. {Yin} and B. -H. {Chen} and Y. -T. {Peng} and C. -C. {Tsai}},
